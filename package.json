@@ -1,0 +1,23 @@
+{
+  "name": "cordova-pluging-disable-nsapptransportsecurity",
+  "version": "1.0.0",
+  "description": "Disables NSAppTransportSecurity",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bisrael/cordova-plugin-facebook.git"
+  },
+  "keywords": [
+    "cordova",
+    "facebook"
+  ],
+  "author": "Blake Israel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bisrael/cordova-plugin-facebook/issues"
+  },
+  "homepage": "https://github.com/bisrael/cordova-plugin-facebook#readme"
+}
