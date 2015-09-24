@@ -1,6 +1,6 @@
 {
-  "name": "cordova-pluging-disable-nsapptransportsecurity",
-  "version": "1.0.0",
+  "name": "cordova-plugin-disable-nsapptransportsecurity",
+  "version": "1.0.2",
   "description": "Disables NSAppTransportSecurity",
   "main": "",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bisrael/cordova-pluging-disable-nsapptransportsecurity.git"
+    "url": "git+https://github.com/bisrael/cordova-plugin-disable-nsapptransportsecurity.git"
   },
   "keywords": [
     "cordova","ios9","NSAppTransportSecurity","NSAllowsArbitraryLoads","ssl"
@@ -16,7 +16,7 @@
   "author": "Blake Israel",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bisrael/cordova-plugin-facebook/issues"
+    "url": "https://github.com/bisrael/cordova-plugin-disable-nsapptransportsecurity/issues"
   },
-  "homepage": "https://github.com/bisrael/cordova-plugin-facebook#readme"
+  "homepage": "https://github.com/bisrael/cordova-plugin-disable-nsapptransportsecurity#readme"
 }

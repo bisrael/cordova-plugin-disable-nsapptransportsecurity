@@ -1,4 +1,4 @@
-# Disable NSAppTransportSecurity
+# Disable NSAppTransportSecurity 1.0.2
 
 ### Disables NSAppTransportSecurity for your Cordova App
 
