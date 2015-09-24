@@ -8,11 +8,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bisrael/cordova-plugin-facebook.git"
+    "url": "git+https://github.com/bisrael/cordova-pluging-disable-nsapptransportsecurity.git"
   },
   "keywords": [
-    "cordova",
-    "facebook"
+    "cordova","ios9","NSAppTransportSecurity","NSAllowsArbitraryLoads","ssl"
   ],
   "author": "Blake Israel",
   "license": "MIT",
