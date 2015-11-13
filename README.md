@@ -4,6 +4,6 @@
 
 ## Installation:
 
-`cordova plugin add cordova-pluging-disable-nsapptransportsecurity`
+`cordova plugin add cordova-plugin-disable-nsapptransportsecurity`
 
 done.
